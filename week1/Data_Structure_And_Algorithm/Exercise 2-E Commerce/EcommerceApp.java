@@ -88,6 +88,7 @@ public class EcommerceApp{
         }
         else{
             System.out.println("Product Didnt Exist");
+             System.out.println("Product Didnt Exist");
         }
         System.out.println();
     }
