@@ -27,7 +27,7 @@ public class SingletonTest{
         Logger logger = Logger.GetInstance();
 
         // Check if the logger class works
-        logger.Login("Shanmu");
+        logger.Login("Pooja");
 
 
         // Check the "Singleton Properties"
